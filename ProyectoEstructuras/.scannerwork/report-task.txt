@@ -1,0 +1,6 @@
+projectKey=vacaf2017
+serverUrl=http://200.126.12.59:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://200.126.12.59:9000/dashboard/index/vacaf2017
+ceTaskId=AWAlPYGL7wyP56c01ILe
+ceTaskUrl=http://200.126.12.59:9000/api/ce/task?id=AWAlPYGL7wyP56c01ILe

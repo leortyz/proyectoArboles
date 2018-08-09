@@ -1,0 +1,50 @@
+BFGM8761|Kia|modelo E|3.2|1990|Familiar|1948|dorado|eléctricos|manual|DSG|18614|carro0.jpg
+XYLO2596|Mercedes Benz|modelo B|5.7|2006|Sedan|9683|azul|eléctricos|eléctrico|CVT|27178|carro1.jpg
+FBCX6986|Honda|modelo O|5.9|1988|Comercial|2443|dorado|diesel|manual|DSG|19454|carro2.jpg
+CKQB9482|Audi|modelo V|1.7|1992|Deportivo|1251|gris|alterna|eléctrico|DSG|35716|carro3.jpg
+CKQB9482|Mercedes Benz|modelo K|2.0|1998|Lujo|9084|vino|gasolina|eléctrico|CVT|47614|carro4.jpg
+RFPW0924|Toyota|modelo D|4.0|1999|Comercial|6080|azul|alterna|manual|automatica|35645|carro5.jpg
+ZARS1545|Porsche|modelo V|5.0|2002|Deportivo|4771|verda|diesel|eléctrico|DSG|36415|carro6.jpg
+MNRH0555|Mitsubishi|modelo H|5.6|2012|Lujo|6558|gris|eléctricos|manual|DSG|26142|carro7.jpg
+ZARS1545|Nissan|modelo L|5.0|1986|Deportivo|4922|dorado|gasolina|eléctrico|CVT|38154|carro8.jpg
+XYLO2596|Mercedes Benz|modelo E|1.3|2010|Sedan|8921|naranja|diesel|eléctrico|manual|37274|carro9.jpg
+USRJ1152|Mazda|modelo P|1.2|1986|Bajo Costo|4407|vino|gasolina|manual|CVT|23365|carro10.jpg
+GGJQ6510|Audi|modelo X|1.9|1989|Todoterreno|8449|rojo|diesel|eléctrico|manual|25491|carro11.jpg
+GXYH0179|Ferrari|modelo M|3.7|1998|Bajo Costo|8821|azul|diesel|eléctrico|manual|49834|carro12.jpg
+HBMH3481|Kia|modelo O|4.5|1997|Deportivo|1419|azul|alterna|manual|manual|18929|carro13.jpg
+CKQB9482|Suzuki|modelo C|2.1|1993|Lujo|748|naranja|eléctricos|eléctrico|manual|34775|carro14.jpg
+USRJ1152|Ford|modelo K|2.1|1997|Lujo|3721|rojo|alterna|eléctrico|manual|42736|carro15.jpg
+RFPW0924|Jepp|modelo N|2.8|2008|Deportivo|7481|rojo|gasolina|manual|manual|37388|carro16.jpg
+XYLO2596|Mitsubishi|modelo W|3.3|2010|Familiar|868|azul|diesel|eléctrico|automatica|40775|carro17.jpg
+SYAN4262|Hyundai|modelo B|2.1|1992|Lujo|1497|gris|diesel|eléctrico|manual|24422|carro18.jpg
+CKQB9482|Volkswagen|modelo T|4.8|1999|Lujo|9933|dorado|diesel|manual|manual|13703|carro19.jpg
+BRUW0261|Jepp|modelo D|2.0|2017|Lujo|6319|rojo|alterna|eléctrico|DSG|32945|carro20.jpg
+USRJ1152|Nissan|modelo W|5.8|2015|Todoterreno|9765|blanco|diesel|manual|automatica|30285|carro21.jpg
+VJKM4758|Suzuki|modelo F|3.9|1986|Bajo Costo|6985|vino|eléctricos|manual|manual|28025|carro22.jpg
+HBMH3481|Porsche|modelo O|1.9|1988|Deportivo|2620|rojo|eléctricos|eléctrico|manual|23696|carro23.jpg
+VJKM4758|Chevrolet|modelo L|1.4|1988|Bajo Costo|8319|azul|diesel|eléctrico|manual|41820|carro24.jpg
+GXYH0179|Mercedes Benz|modelo U|1.2|2017|Deportivo|1980|verda|diesel|eléctrico|DSG|36417|carro25.jpg
+USRJ1152|Nissan|modelo G|4.0|1993|Comercial|2603|azul|gasolina|eléctrico|DSG|20418|carro26.jpg
+GXYH0179|Honda|modelo B|4.5|1988|Todoterreno|8023|dorado|eléctricos|eléctrico|DSG|42098|carro27.jpg
+QBSD2960|Ferrari|modelo L|3.1|2010|Deportivo|5185|rojo|diesel|eléctrico|DSG|16958|carro28.jpg
+SYAN4262|Nissan|modelo B|2.2|2011|Bajo Costo|7392|verda|alterna|eléctrico|CVT|34783|carro29.jpg
+RFPW0924|Porsche|modelo C|2.5|1999|Lujo|7050|negro|eléctricos|manual|CVT|40997|carro30.jpg
+QBSD2960|Mitsubishi|modelo R|2.8|1999|Todoterreno|6913|naranja|gasolina|manual|DSG|19310|carro31.jpg
+RFPW0924|Mazda|modelo L|3.6|1995|Todoterreno|8140|naranja|alterna|eléctrico|CVT|29172|carro32.jpg
+BRUW0261|Suzuki|modelo S|4.8|2009|Familiar|6645|azul|alterna|eléctrico|manual|21762|carro33.jpg
+XYLO2596|Nissan|modelo U|2.5|2013|Todoterreno|9409|dorado|diesel|eléctrico|manual|39824|carro34.jpg
+VJKM4758|Honda|modelo E|1.2|2004|Familiar|6167|gris|gasolina|eléctrico|automatica|43448|carro35.jpg
+GXYH0179|Toyota|modelo O|3.1|1997|Familiar|8713|naranja|diesel|manual|DSG|19216|carro36.jpg
+ZAXI4982|Volkswagen|modelo T|3.2|2004|Bajo Costo|7764|dorado|eléctricos|manual|manual|11770|carro37.jpg
+LFRU3037|Chevrolet|modelo W|4.8|2014|Deportivo|7588|negro|diesel|manual|automatica|35818|carro38.jpg
+GGJQ6510|Kia|modelo F|4.8|2013|Sedan|2471|dorado|gasolina|manual|CVT|43351|carro39.jpg
+GGJQ6510|Jepp|modelo E|2.9|2004|Familiar|3638|amarillo|eléctricos|eléctrico|CVT|20768|carro40.jpg
+FBCX6986|Ford|modelo G|1.4|2007|Familiar|1224|dorado|alterna|eléctrico|DSG|44045|carro41.jpg
+GXYH0179|Ford|modelo T|4.2|2017|Lujo|6859|amarillo|alterna|manual|CVT|24041|carro42.jpg
+CKQB9482|Hyundai|modelo F|3.7|2000|Bajo Costo|6006|blanco|gasolina|eléctrico|automatica|23620|carro43.jpg
+BRUW0261|Kia|modelo H|1.4|2009|Todoterreno|1679|gris|diesel|manual|automatica|43972|carro44.jpg
+CKQB9482|Audi|modelo V|4.5|1998|Familiar|3410|amarillo|gasolina|eléctrico|manual|34774|carro45.jpg
+BRUW0261|Hyundai|modelo F|4.0|1996|Bajo Costo|8116|gris|gasolina|manual|CVT|33196|carro46.jpg
+VJKM4758|Volkswagen|modelo I|1.6|2009|Lujo|1337|naranja|eléctricos|eléctrico|DSG|43927|carro47.jpg
+RFPW0924|Mazda|modelo G|2.6|1992|Bajo Costo|9009|dorado|eléctricos|eléctrico|manual|48317|carro48.jpg
+CKQB9482|Mitsubishi|modelo Z|3.3|2000|Lujo|5725|dorado|alterna|manual|manual|22334|carro49.jpg

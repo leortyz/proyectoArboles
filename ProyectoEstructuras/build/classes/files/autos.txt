@@ -1,0 +1,4 @@
+CKQB9482|Audi|modelo V|1.7|1992|Deportivo|1251|gris|alterna|electrico|DSG|35716|/images/carro4.jpg
+XYLO2596|Mercedes Benz|modelo K|2.0|1998|Lujo|9084|vino|gasolina|electrico|CVT|47614|/images/carro5.jpg
+RFPW0924|Toyota|modelo D|4.0|1999|Comercial|6080|azul|alterna|manual|automatica|35645|/images/carro6.jpg
+ZARS1545|Porsche|modelo V|5.0|2002|Deportivo|4771|verda|diesel|electrico|DSG|36415|/images/carro7.jpg
